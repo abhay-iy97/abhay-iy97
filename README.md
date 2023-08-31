@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Abhay
 
 - 🎓 Master's in Computer Science - University of Southern California
-- 🏢 Software Engineering / AI Research [@coming soon]
+- 🏢 Software Engineering + AI Research
 - 😄 Pronouns: he/him/his
 
 <!-- - 🔭 I’m currently working on ...
